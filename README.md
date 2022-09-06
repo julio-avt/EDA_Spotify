@@ -17,6 +17,7 @@ En este trabajo se realiza una conexión a la API de Spotify para obtener inform
 ### Información sobre el proyecto:
 Este proyecto analiza una playslist de spotify. Particularmente se analizo la playlist con el top 50 Global de spotify ([link](https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF?si=1367122882d04888)), pero puede replciarse con cualquier otra playlist pública.
 
+
 ### Conexión a la API de Spotify
 Para poder acceder a la API de Spotify y extraer la información de las canciones en la playlist, se requieren de dos llaves. Los pasos para obtener estas llaves son:
 
