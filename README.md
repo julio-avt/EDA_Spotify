@@ -2,10 +2,12 @@
 
 # Análisis exploratorio del top 50 Gobal más escuchado de Spotify
 ## ¿Qué tienen de especial las canciones más escuchado en el mundo en Spotify?
+
 ---
 <p align="center"> <img alt="Coding" width="400" src="https://developer.spotify.com/assets/FBImage.png"> </p>
 <p align="center"> <img alt="Coding" width="200" src="https://i.scdn.co/image/ab67706c0000bebbee2440a8fd4602006216f55f"> </p>
 ---
+
 #### *Por: Julio César Avila Torreblanca* [julio-avt](https://github.com/julio-avt)
 
 #### Resumen:
