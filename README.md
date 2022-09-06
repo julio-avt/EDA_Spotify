@@ -26,8 +26,8 @@ Para poder acceder a la API de Spotify y extraer la información de las cancione
 
 2. Una vez inciada sesión, se te mostrará tu dashboard. Hay que crear una nueva app (o si ya se tiene utilizar ese). Esta app lleva un título y descripción.
 
-<p align="center"> <img alt="Coding" width="600" src="https://i.imgur.com/TbGbqA2.png"> </p>
-<p align="center"> <img alt="Coding" width="600" src="https://i.imgur.com/11pSnUm.png"> </p>
+<p align="center"> <img alt="Coding" width="900" src="https://i.imgur.com/TbGbqA2.png"> </p>
+<p align="center"> <img alt="Coding" width="400" src="https://i.imgur.com/11pSnUm.png"> </p>
 
 3. Ya creado el proyecto, ingresamos en el mismo y seleccionamos que se nos muestre las llave oculata.
 
