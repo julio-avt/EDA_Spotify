@@ -33,7 +33,7 @@ Para poder acceder a la API de Spotify y extraer la información de las cancione
 
 <p align="center"> <img alt="Coding" width="600" src="https://i.imgur.com/zFK6uot.png"> </p>
 
-4. Finalemente guardamos los valores de *Client ID* y *Client Secret* (en la imagen se han tapado ya que son llaves personales).
+4. Finalmente guardamos los valores de *Client ID* y *Client Secret* (en la imagen se han tapado ya que son llaves personales).
 
 <p align="center"> <img alt="Coding" width="600" src="https://i.imgur.com/YJi6ZaZ.png"> </p>
 
